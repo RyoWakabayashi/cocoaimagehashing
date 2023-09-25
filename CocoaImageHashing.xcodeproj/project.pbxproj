@@ -2521,6 +2521,7 @@
 					"-pedantic",
 					"-Wno-direct-ivar-access",
 					"-Wno-objc-interface-ivars",
+					"-Wno-declaration-after-statement",
 				);
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 				WATCHOS_DEPLOYMENT_TARGET = 2.0;
@@ -2619,6 +2620,7 @@
 					"-pedantic",
 					"-Wno-direct-ivar-access",
 					"-Wno-objc-interface-ivars",
+					"-Wno-declaration-after-statement",
 				);
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VALIDATE_PRODUCT = YES;
